@@ -62,4 +62,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/joao
 
 ## :rocket: Author
 
-Make with dedication and ❤️ by [João Hiago](https://github.com/joaohiago01) 👋🏽 [Get it touch!](https://www.linkedin.com/in/joaohiago/)
+Make with dedication and ❤️ by [João Hiago](https://github.com/joaohiago01) && [Inathan](https://github.com/Inathan7) 👋🏽 [Get it touch!](https://www.linkedin.com/in/joaohiago/)
